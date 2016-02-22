@@ -1,4 +1,36 @@
-/*.card{
-  height: 400px;
+.dash-column{
+  display: inline-block;
+}
+
+.dash-column.left{
+  width: auto;
+}
+
+.dash-column.middle{
   width: 400px;
-}*/
+}
+
+
+.weather-card{
+  width: 334px;
+  height: 180px;
+}
+
+.time-card{
+  width: 205px;
+  height: 180px;
+}
+
+.traffic-card{
+  width: 116px;
+  height: 180px;
+}
+
+.switch-card{
+  width: 116px;
+  height: 116px;
+}
+
+.row{
+  /*margin-bottom: 0px;*/
+}
